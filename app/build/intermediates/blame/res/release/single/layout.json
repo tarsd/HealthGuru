@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/mysqldatabase.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/mysqldatabase.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/temp.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/temp.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/graphs.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/graphs.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/first_aid.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/first_aid.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/diastolic.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/diastolic.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/viewdatabase.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/viewdatabase.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/start.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/start.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/map.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/map.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/viewallergy.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/viewallergy.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/problematicmedicines.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/problematicmedicines.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/new_account.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/new_account.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/systolic.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/systolic.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/enterrecords.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/enterrecords.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/sugar.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/sugar.xml"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/release/layout/tableallergy.xml",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/layout/tableallergy.xml"
+    }
+]

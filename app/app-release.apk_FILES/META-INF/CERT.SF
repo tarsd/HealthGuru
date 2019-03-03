@@ -1,0 +1,725 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Z/4So4GrLV8csQUkImE1bdvklS8=
+Created-By: 1.0 (Android)
+
+Name: res/drawable-ldpi-v4/image2.png
+SHA1-Digest: MTlTB/QQQjWB50OWoutKvxJlVa4=
+
+Name: res/drawable-mdpi-v4/loginsecond.png
+SHA1-Digest: AYl61czOm53M6ZLZ+eOlH2JJXr4=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.ui.ide/dial
+ og_settings.xml
+SHA1-Digest: zf+LB3gNaUSjlr5og45vjmyS/pE=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/SeekBar.png
+SHA1-Digest: iiIiltkkLsWpuU9vT2nCn+7tBWM=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.ui.workbenc
+ h/dialog_settings.xml
+SHA1-Digest: DKD1HQpscmnipql15HPBNhNUuWE=
+
+Name: res/drawable-mdpi-v4/back.png
+SHA1-Digest: rTpHRDAghmnhZzo4UKGN6FqluDU=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.cdt.core/.log
+SHA1-Digest: 4VboZDYvGM5H9yqH/MyC+1Q2rHo=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.wst.sse.ui.prefs
+SHA1-Digest: kvrbLOUQ2Gs5bEA0KWx/GG1JJik=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/ExpandableListView.png
+SHA1-Digest: Mvm0OsWADcQOmLCZQqDXjh1UVgA=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.debug.ui.prefs
+SHA1-Digest: LF4IgtWQxHjsEF4XwDzMgtF1tR0=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.jdt.ui.prefs
+SHA1-Digest: WVC5WpciT1i5naFhCa/64rnudLQ=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: DZuXjGD7/K7DZuPeMw2WvVJZimk=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/PostalAddress.png
+SHA1-Digest: dcVISShIeRk0Ow33UHYxiCStwrU=
+
+Name: res/layout/map.xml
+SHA1-Digest: 90SmVh0zvc/5JkkHo6qNaLfdZh0=
+
+Name: resources.arsc
+SHA1-Digest: kVBCsCSO0KI6HAtThgDKp+JYvQs=
+
+Name: res/drawable-ldpi-v4/first.png
+SHA1-Digest: UcgG0u/3uRUKPK1FAbriclJT/Jk=
+
+Name: res/drawable-mdpi-v4/login.png
+SHA1-Digest: 8+mMe7LYgmKxkbLCN+br7P6ft7I=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.wst.xml.core/default_c
+ atalog.xml
+SHA1-Digest: xMYkBXB0KLtUaBgz5WA5H8OreS0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 3owYJTnWACgz19O8KsY5ZAm8qmA=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.runtim
+ e/.settings/org.eclipse.jdt.core.prefs
+SHA1-Digest: i8GDXyOhVd3KaYh3tPfPRD/GQaU=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.runtim
+ e/.settings/org.eclipse.jdt.ui.prefs
+SHA1-Digest: BLwYr5UQVolrxcRlNvA73ASLu7Q=
+
+Name: res/drawable-hdpi-v4/insertproblem.png
+SHA1-Digest: sNjO8bHtdQK3MFTKg4ARFFQ9e9E=
+
+Name: res/drawable-mdpi-v4/startbackground.png
+SHA1-Digest: FJvjZ/wyqFravdr+zCzambY3DhY=
+
+Name: res/drawable-ldpi-v4/times.png
+SHA1-Digest: 1HFAw5YY/7yJRdX4KCjinHAX+5k=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.resources/.safeta
+ ble/org.eclipse.core.resources
+SHA1-Digest: Zm8JBCnqumpmBY7BzYNhXc8fYjc=
+
+Name: res/drawable-mdpi-v4/dropsblue.jpeg
+SHA1-Digest: rAvUo2VqJBnOdfuxVhw8r8GxnhY=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.jdt.core/va
+ riablesAndContainers.dat
+SHA1-Digest: NSIfCAuWSgKqf+Qe78v3skrrULw=
+
+Name: res/layout/viewdatabase.xml
+SHA1-Digest: 9DaVaDMtTvIN/Pgz9m9sKe35LDY=
+
+Name: res/layout/temp.xml
+SHA1-Digest: kxg4PwluMwIO4YehfkaKgt5B1W0=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/QuickContactBadge.png
+SHA1-Digest: c/D4hvoKm7W2tAr/HsF2/nK7pfU=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarSmall.png
+SHA1-Digest: ZNuVBSzfw1qjolZN5h0tMPBpzZE=
+
+Name: res/drawable-ldpi-v4/blackblocks.png
+SHA1-Digest: AO07E+lR594SR8zoyxmJPINCF0A=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_sett
+ ings.xml
+SHA1-Digest: 64gQghr/YUuhfoQ2QzTDjRB8Ndw=
+
+Name: res/drawable-ldpi-v4/abstractflame.jpeg
+SHA1-Digest: KtSSV/Ay567p70usZHjE8W682/E=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory
+ .xml
+SHA1-Digest: yiASdUso/2GnpRXWE5KCu5xGBOg=
+
+Name: res/drawable-ldpi-v4/startbackground.png
+SHA1-Digest: 98TnKC9mVD+PIvKnkZOCHTuSNEw=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.wst.internet.cache/cac
+ he.xml
+SHA1-Digest: HAQPcQfgj+2Ggv5ooyBWNLpLo34=
+
+Name: res/drawable-hdpi-v4/records.png
+SHA1-Digest: CXdlPMClc3b1YC4ecP/dhrfjNw4=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/preview.properties
+SHA1-Digest: qU4NctvbrMcerZ7PMtmmZ977yNw=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: fCxx4KSjNeBnZPS2JG6D8mDUY0s=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/TabWidget.png
+SHA1-Digest: HVZ4zveviY0OuS8fXcK4w2cvRjc=
+
+Name: res/drawable-mdpi-v4/records.png
+SHA1-Digest: Qe5X24dygkP5JCa0Bh88yg+hO/U=
+
+Name: res/drawable-mdpi-v4/insertproblem.png
+SHA1-Digest: vlpqg1VvI2CwF8W5lZdsuTSl3+A=
+
+Name: com/tushar/healthguru/.metadata/version.ini
+SHA1-Digest: lpphPVaKqbL4AszkFEPjPP4vUGw=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/ZoomControls.png
+SHA1-Digest: ydDbQpPcBfpluS9Ei34wVmdKdTU=
+
+Name: res/drawable-ldpi-v4/dropsblue.jpeg
+SHA1-Digest: SS4RQldxP/SuhxJmW+Z3+eIdwek=
+
+Name: res/drawable-mdpi-v4/enter.png
+SHA1-Digest: cC8w+P6yhRMwQ04thSfGhWwzYVo=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.cdt.core/.l
+ og
+SHA1-Digest: cTlsjsB53v49slgFbAqM0FZ+Crk=
+
+Name: res/drawable-mdpi-v4/image2.png
+SHA1-Digest: 9uhX6AyKU6B/A3ORHfvP7eBdBhc=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.resources/.root/.
+ indexes/history.version
+SHA1-Digest: YYerivlprcf9+bjl1kvgYQMBBC8=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.
+ refactorings/.workspace/2015/7/27/refactorings.history
+SHA1-Digest: PsJ5DPtlYQtac16IcCNjzhfmXB0=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/PlainText.png
+SHA1-Digest: j61RP870c5RhgiZc+Q3pAAyi3eo=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/MultiAutoCompleteTextView
+ .png
+SHA1-Digest: km1MzJ2cpa4/UTZ4KaPTGtFdJo4=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.search/dial
+ og_settings.xml
+SHA1-Digest: +M4PDLgJ8f36RHuI26jWzS/Coz0=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/Button.png
+SHA1-Digest: FlQxFUyDUIuemUWUPjYE/kbyUs8=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/NumberSigned.png
+SHA1-Digest: OIsokSXN9AQvAeGA9xORjYfqalw=
+
+Name: res/drawable-mdpi-v4/times.png
+SHA1-Digest: b99+q1ZFkwTtWd2B9nX3thnrcJw=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.jdt.launchi
+ ng/.install.xml
+SHA1-Digest: hDUaCKBFGwZUDgdG35Yaq7WvsXU=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNa
+ meHistory.xml
+SHA1-Digest: FFbFXCP2JUtsVBr+CJRWoEzXbpk=
+
+Name: res/drawable-ldpi-v4/gratus.png
+SHA1-Digest: 5HKMEtXp9SJ+TvXLicdfiiT4u0I=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/SmallButton.png
+SHA1-Digest: UILBv3pII22o3GpXBM8kFhLWR+E=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.runtim
+ e/.settings/org.eclipse.cdt.ui.prefs
+SHA1-Digest: 61ypQFDrOeMS4txZUYZK/Ewc0qc=
+
+Name: res/drawable-hdpi-v4/back.png
+SHA1-Digest: XL+6T9mw0ZgWLTXDo895VPeAYKc=
+
+Name: res/drawable-hdpi-v4/first.png
+SHA1-Digest: uoEKabh0OLwEW3I2PjvyR5nhcb8=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/LargeText.png
+SHA1-Digest: IOxegynyqRIgpwQMPoSIB5dBTyM=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.runtim
+ e/.settings/org.eclipse.ui.prefs
+SHA1-Digest: vHj3PjVX6LnTyn8FJXXcdtmTRyw=
+
+Name: res/drawable-mdpi-v4/abstractflame.jpeg
+SHA1-Digest: xO2epVZjFMEnJNuEkZnwmU1Wr6I=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/Spinner.png
+SHA1-Digest: dxGP0UDg/vsvlGgm9Wn8YLsoV0w=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.team.ui.prefs
+SHA1-Digest: 9xFIIOhcG8XDbuEBqUQ1JOiakAQ=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNam
+ es.txt
+SHA1-Digest: 19ZxLdibN+y2txLRFSJddD53gH8=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.ui.editors.prefs
+SHA1-Digest: Fjc58yphtb548F2oX1bDVZmHNDA=
+
+Name: res/menu-v11/main.xml
+SHA1-Digest: YmKPT3Is9+PaJ5jUj7H8CQkXSao=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/Phone.png
+SHA1-Digest: yR5ak0rB04aK6DJO+m3JSiQEGPw=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/NumberDecimal.png
+SHA1-Digest: 8gM4U91wLd/lPaxSOkZza40FPm8=
+
+Name: res/drawable-ldpi-v4/back.png
+SHA1-Digest: BzQDeiP/Pq36DCklpgH9+fAYSGo=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: pv2LtRzv1F7YPmJXx/xsqj9NlDM=
+
+Name: res/drawable-mdpi-v4/blackblocks.png
+SHA1-Digest: UUBlHH6HtmRGulTnydFl+tuPUbE=
+
+Name: com/tushar/.metadata/.lock
+SHA1-Digest: o/Vb42ZX1Z+WZ+jJj9hkKP83gU0=
+
+Name: res/drawable-hdpi-v4/dropsblue.jpeg
+SHA1-Digest: SobEx8mIhmfE4sRvc5qzyHaKFeI=
+
+Name: res/layout/start.xml
+SHA1-Digest: FoUH6J6JLEiu7JpOy6hNRwsx/mI=
+
+Name: res/drawable-hdpi-v4/login.png
+SHA1-Digest: zS8rxYKdV51YcunoM9ZXQRkHyMY=
+
+Name: res/drawable-ldpi-v4/records.png
+SHA1-Digest: MYesRGZEX7rTwZJBvKUecLipFJg=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.e4.workbenc
+ h/workbench.xmi
+SHA1-Digest: tGx5oMJPemk+IAFPwllM5g06UeA=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: res/drawable-hdpi-v4/create_account_background.jpeg
+SHA1-Digest: t5EyT7u8z2LtHxx0dddpL8Lf1wA=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/Number.png
+SHA1-Digest: 3Eo2fAGOUfPUKukWWl9PeQkTTxM=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.jdt.core.prefs
+SHA1-Digest: bAuFkjBoo5fXsb6mpSCygeVaR+Q=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/RatingBar.png
+SHA1-Digest: kykM6qCOlqS8ckGfx4H9+xbw1w8=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.core.resources.prefs
+SHA1-Digest: gaHUgwD8IDHHAiRl+dOd7GlHs+A=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.e4.workbench/workbench
+ .xmi
+SHA1-Digest: rsXT2PNiGX/Qp5D7wyg1XYsD4kM=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/SmallText.png
+SHA1-Digest: VaTKGMnM74kRPpK95yecDktoTbk=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: 0UTR33b4oB+jTEkhQOTnk6g+l/o=
+
+Name: res/layout/problematicmedicines.xml
+SHA1-Digest: sQOWeJigmHgeZMJtLyIOVB+x+Lk=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/CheckedTextView.png
+SHA1-Digest: +SxgQBeMKph1G0Q6pFp9nnp5VlM=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.jdt.core/in
+ validArchivesCache
+SHA1-Digest: 7saPK332sjsRWFQ4NlItb4clKNM=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.runtim
+ e/.settings/org.eclipse.core.resources.prefs
+SHA1-Digest: ymxXZmANeV0PMzTmwxEDwktPQZU=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.wst.sse.core.prefs
+SHA1-Digest: uLUTdgwXm6QeJ+L0Esx18LEoHxI=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.jdt.launchi
+ ng/libraryInfos.xml
+SHA1-Digest: HCFaBi+Dfzkk8quNMlKTULo/6mg=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.cdt.make.co
+ re/specs.cpp
+SHA1-Digest: +/YwUy9PEiNCfsvag9TtEOoo9ZA=
+
+Name: res/drawable-mdpi-v4/gratus.png
+SHA1-Digest: mYGBeVEev4VKnEUEdpzXWRoaq9w=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.jdt.ui/Qual
+ ifiedTypeNameHistory.xml
+SHA1-Digest: E+EmCHvMFFHqZBwTdP7iOTd2X2s=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/Password.png
+SHA1-Digest: qNlc/KvS1rjt5s6DSmy1NEZqPyI=
+
+Name: org/achartengine/image/zoom_in.png
+SHA1-Digest: lxpKV8NWap/pIL+3lszROFu6bqA=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/AutoCompleteTextView.png
+SHA1-Digest: h6yVrVTYlGB29ogNRlkWtHjfp30=
+
+Name: com/tushar/healthguru/.metadata/.log
+SHA1-Digest: MPfKgbzT3EmV2tpP351dx/7bBdo=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/Time.png
+SHA1-Digest: 6j0jTSq7MdzgbFu7G3+4NH21Mew=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dia
+ log_settings.xml
+SHA1-Digest: xTz/dnhi+SUXULqT1Snv8PwNfLw=
+
+Name: res/drawable-ldpi-v4/loginsecond.png
+SHA1-Digest: ydXinTT5Trc/hT0XOVq7hg+qTlk=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/ZoomButton.png
+SHA1-Digest: aNyM+ZqFdpeQgyuFktxkrQ+zuoU=
+
+Name: res/layout/tableallergy.xml
+SHA1-Digest: 4v2lmRg47IU1JZhOxZAc2nP64Sc=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/Email.png
+SHA1-Digest: 6Whk5cO684FxXUZh9isV0pqd3Uw=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/TextView.png
+SHA1-Digest: RnMhJNRO5jSKXlrxP1p2oL+W2Zk=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.resources/.root/6
+ .tree
+SHA1-Digest: b+s3B/v/0z0WKQq66IFzhMI2xfI=
+
+Name: res/drawable-ldpi-v4/enter.png
+SHA1-Digest: mI4Ko/DzX69cvVRQnlgGYXUNKtE=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/DigitalClock.png
+SHA1-Digest: pRvtMSoFOuuyPJid1OdqAJEoWB0=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/CheckBox.png
+SHA1-Digest: vfHdYS2zH9ZYN5Ufb07CEBNULBM=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.resour
+ ces/.root/.indexes/properties.version
+SHA1-Digest: rzh8fkd54UGVLi7XypxzxWph0cM=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/TabHost.png
+SHA1-Digest: O1sYbxnE5gpWcn/+t3k9y50b0S8=
+
+Name: res/drawable-hdpi-v4/loginbackground.png
+SHA1-Digest: YGgTxl0GTJxtSedIvwwyk8YhkCY=
+
+Name: res/drawable-mdpi-v4/first.png
+SHA1-Digest: GQCttwdwXxXT3ahRcTpbXOfyt84=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /com.android.ide.eclipse.adt.prefs
+SHA1-Digest: dfNltQ3FTSsaITcL6uJJFEn8+Ss=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.jdt.core/no
+ nChainingJarsCache
+SHA1-Digest: gfCd5N+QKSC5OYN1c+oAIaCZqnM=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.ui.ide.prefs
+SHA1-Digest: hd5uhhMHQSSYhgM5OUN7zULyoCc=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.wst.xml.core/system_ca
+ talog.xml
+SHA1-Digest: t8y2ggVZjLtkgDMUDxcpL+yRNZ8=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.runtim
+ e/.settings/org.eclipse.ui.ide.prefs
+SHA1-Digest: KiOIwMc1rv2fi3bcxttVAtBlNyc=
+
+Name: res/layout/systolic.xml
+SHA1-Digest: Uz+TdLLH7f9bc1ovrw2KmZy8gvo=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarHorizontal.png
+SHA1-Digest: zRY05qvqu1d6grzVCj4dA/XlCgo=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/MultilineText.png
+SHA1-Digest: 1rzIadiGrUMIWyDW1BzjJ0cWv50=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.ui.prefs
+SHA1-Digest: +NnQaR12bxwbPCzdaZU6sCYLepo=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJa
+ rsCache
+SHA1-Digest: DU1NQdW9YKHJJz5DML66beJNWyo=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: o70ZvymC/mIa323dccDQiFA7K0I=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/Date.png
+SHA1-Digest: tTX7xi1WfVQfvJao8kVpvEZal24=
+
+Name: org/achartengine/image/zoom_out.png
+SHA1-Digest: fCue4PKIGrdPWlOh/eNvmGpUExA=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarLarge.png
+SHA1-Digest: WzgFWa6z4Py9ILZesmri1YJm1Rs=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/RadioButton.png
+SHA1-Digest: I9FOqg9lOcvLavekamAZa3oWvu8=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.resour
+ ces/.root/21.tree
+SHA1-Digest: VRnhraZbBruuNcC/LivMYBXnjk4=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/RadioGroup.png
+SHA1-Digest: DyomeAdjOV9Nvu+0wkA7X8Z/lIU=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.jdt.core/externalLibsT
+ imeStamps
+SHA1-Digest: 0EdSPtIOmUyRuwLpMZYd8L3VsWA=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.ui.workbench/workingse
+ ts.xml
+SHA1-Digest: HZKBaOzAfIrgmOkTkl9643nk2Mw=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.resources/.root/.
+ indexes/properties.version
+SHA1-Digest: MsJdkvFeWUoOQzcwcFAK8sVI+3g=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.resour
+ ces/.root/.indexes/properties.index
+SHA1-Digest: UYVbsH4Di4JxDNqOkXByINi9FSE=
+
+Name: com/tushar/healthguru/.metadata/.lock
+SHA1-Digest: YRDWLgomiPFeo0pZoF5BBBWDtps=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.resour
+ ces/.safetable/org.eclipse.core.resources
+SHA1-Digest: 5+RqhlK5SqZ7HNneECe9l38qnFc=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.ui.workbenc
+ h/workingsets.xml
+SHA1-Digest: JCGdiS9wzOY7Wj/Xbm7bLy0pEd8=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/PersonName.png
+SHA1-Digest: aqGCUwN5YwA4k+vfe114jaBj3Vk=
+
+Name: res/drawable-hdpi-v4/abstractflame.jpeg
+SHA1-Digest: KsYo5Rj3KBD5G4L2V352Cx3hil4=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: fE0QMlNhXO9cyfTCbYMQwiNq4K0=
+
+Name: res/drawable-ldpi-v4/insertproblem.png
+SHA1-Digest: X0IOAgn+DYLORjiMcoYXWptWOvQ=
+
+Name: res/layout/sugar.xml
+SHA1-Digest: 4LU9GwEx32b+PjZGGvkcUHxOzrQ=
+
+Name: res/drawable-hdpi-v4/blackblocks.png
+SHA1-Digest: akSL7fcDSdD90MGXijUSvaeQVV0=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames
+ .txt
+SHA1-Digest: 3O2ToXdjF0bVTEGPu9HGE4fu9xE=
+
+Name: res/drawable-ldpi-v4/login.png
+SHA1-Digest: VU9A+W2CwHJBVlY00TqgRdnIeGU=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.runtim
+ e/.settings/com.android.ide.eclipse.adt.prefs
+SHA1-Digest: cXgU5NE++8bEo5CYKAM/TnHP5iw=
+
+Name: res/layout/graphs.xml
+SHA1-Digest: QsC/Duh52ue1McXrgyp08b/3H2M=
+
+Name: assets/fonts/Actionit.TTF
+SHA1-Digest: z38DWGnsoUuw9EceNM0Ucgg4DHw=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cp
+ p
+SHA1-Digest: LlocGPeD6q3MiVab0OxeTjx5yFg=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.ui.workbench/dialog_se
+ ttings.xml
+SHA1-Digest: gLh1zYce/maJodoCyEajeKaPBYc=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.runtime/.settings
+ /org.eclipse.cdt.ui.prefs
+SHA1-Digest: TULZqlgGKEYHI6I2N4hyNHp3m8o=
+
+Name: assets/fonts/alienmarks.TTF
+SHA1-Digest: tKafRWcdOwA5K2EkdDr/Kf517Qg=
+
+Name: res/drawable-hdpi-v4/startbackground.png
+SHA1-Digest: i4AHCIR2l2b23yEL8gtefTPDRNM=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/PasswordNumeric.png
+SHA1-Digest: /Mfylh6GpnPwHH4nNM+vrZVbpPI=
+
+Name: res/layout/mysqldatabase.xml
+SHA1-Digest: waJm8QWjcd72N/+a7BZcviWDqoc=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.cdt.make.co
+ re/specs.c
+SHA1-Digest: ZyDLNAdjnW8zS8LYlUuYnuEJo9Y=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.jdt.ui/Open
+ TypeHistory.xml
+SHA1-Digest: J0G1QOfuWtf6BLhp/OnJZgc8Lwo=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.jdt.core/invalidArchiv
+ esCache
+SHA1-Digest: BwLDyxtG8wG1/GqOAY+ojOlHZjY=
+
+Name: assets/fonts/FunnyKid.ttf
+SHA1-Digest: FFsdbTwOpB5DAR32TFOUrvKpbsM=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qLB+xSuTsdod1eS2aPJel/A5PvE=
+
+Name: res/drawable-hdpi-v4/loginsecond.png
+SHA1-Digest: p0DHo+UOPz3GmpHpCFz7K4w1XzM=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.runtim
+ e/.settings/org.eclipse.jdt.launching.prefs
+SHA1-Digest: lgAIkS/1F3j/g37j0kUMm/wCBnc=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/ListView.png
+SHA1-Digest: 4wILbVR+AD5nhRb9DQc8zyC5KDc=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarNormal.png
+SHA1-Digest: rSVsTdPyKB98p64FrrWWVKL1IWU=
+
+Name: res/drawable-hdpi-v4/gratus.png
+SHA1-Digest: UAu8CQzI/MAipGq0I5TDR3H+JlI=
+
+Name: res/layout/enterrecords.xml
+SHA1-Digest: RXuaPFGzzbeRIQ2UZ8w0FuKcYzE=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.jdt.ui/dial
+ og_settings.xml
+SHA1-Digest: W05+HcR7mHeqX4lpFUzPrkNgfGY=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: com/tushar/healthguru/.metadata/.plugins/org.eclipse.core.resour
+ ces/.root/.indexes/history.version
+SHA1-Digest: waT6zcEtQHszi2qhcfro+vZBDXA=
+
+Name: res/drawable-hdpi-v4/enter.png
+SHA1-Digest: M2pop9+URMQlBCuCdZEwAIud0ho=
+
+Name: org/achartengine/image/zoom-1.png
+SHA1-Digest: IAzT9MYuTm6r/Z6HSq1HDIK54ko=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/MediumText.png
+SHA1-Digest: bmB6EN+bLF0037Zl7s4+9P0VxXE=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/AnalogClock.png
+SHA1-Digest: BeLOCh4hQg/hljaZ+BcJXy38yQw=
+
+Name: res/menu/main.xml
+SHA1-Digest: gbRGBKnEv8ZT9P7tEh2u/NO+jVc=
+
+Name: res/mipmap-ldpi-v4/ic_launcher.png
+SHA1-Digest: DAe4F085EayDzw6rBKLy72o+9WE=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.
+ refactorings/.workspace/2015/7/27/refactorings.index
+SHA1-Digest: E0YvIRsjtR1QmHzAvXWMotx70i0=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.core.resources/.root/.
+ indexes/properties.index
+SHA1-Digest: yDA8jN9OVz30y8Y/h2o3u9cnYlc=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/ToggleButton.png
+SHA1-Digest: DtaK4dayPDTaYGWfQdqaOKVUY/4=
+
+Name: com/tushar/.metadata/version.ini
+SHA1-Digest: w/pTR4oivtILlGGJFz8TkIK3UCA=
+
+Name: res/layout/new_account.xml
+SHA1-Digest: XYf9cVrfC6ZrCl2ahB9rT3H5WfQ=
+
+Name: res/layout/viewallergy.xml
+SHA1-Digest: FGcaVWLxPZk+IaOwVn4TXsdnFQQ=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/Switch.png
+SHA1-Digest: YBBYCc7Wy20pR/BrVv/M+d2UlNQ=
+
+Name: res/layout/first_aid.xml
+SHA1-Digest: zj1DSt4CC5GxKW0USC5YAjMnNOA=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.jdt.core/variablesAndC
+ ontainers.dat
+SHA1-Digest: ynuNQkdEhVp3UnUtuVgsUzh3fSs=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings
+ .xml
+SHA1-Digest: L4F2ryzj92D0DhdNT5k4MSY7mPk=
+
+Name: com/tushar/.metadata/.plugins/com.android.ide.eclipse.adt/palett
+ e-preview-r16b-19-apptheme-37inwvganexusone/CalendarView.png
+SHA1-Digest: YQ2UhWILITW/6JA2JsEpVzRhgZ8=
+
+Name: res/layout/diastolic.xml
+SHA1-Digest: XYqEgN/RafwisTkJukvmZNR1eKI=
+
+Name: res/drawable-hdpi-v4/image2.png
+SHA1-Digest: IWDcAGhrNvGGExnHpMxpI+ZYfEg=
+
+Name: com/tushar/.metadata/.log
+SHA1-Digest: FUShknfBwzIpgO3pm5hSaYMthl0=
+
+Name: res/drawable-hdpi-v4/improved.png
+SHA1-Digest: XXu5S3Cpdi0/PgCG409Pao69omU=
+
+Name: res/drawable-mdpi-v4/improved.png
+SHA1-Digest: W9ZyPVuW50namVJEl7m0mBuNL2g=
+
+Name: res/drawable-hdpi-v4/times.png
+SHA1-Digest: jDCh/wC+dyAm8/0WkVVIwMImzMk=
+
+Name: com/tushar/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c
+SHA1-Digest: aTV0u3B1vAdn/T6Hw2SyHLr63Z4=
+
+Name: res/drawable-ldpi-v4/improved.png
+SHA1-Digest: yiemqmh+VFQcDxwqmN5sox/8WGY=
+
+Name: classes.dex
+SHA1-Digest: Rp5vjcThEWzkReLhvoFqm4rDyHE=
+

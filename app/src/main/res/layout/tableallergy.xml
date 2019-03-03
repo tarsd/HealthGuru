@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/insertproblem">
+
+    <TabHost
+        android:id="@+id/tabhost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" 
+               >
+
+                <LinearLayout
+                    android:id="@+id/tab1"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="20dp">
+                    
+        <TextView
+        android:id="@+id/tventer_medicines"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="20dp"
+        android:layout_marginLeft="22dp"
+        android:text="PROBLEMATIC   MEDICINES/FOOD"
+        android:textSize="30sp" 
+        android:textStyle="bold"
+        />
+    
+   
+        
+        <TextView
+        android:id="@+id/tvmedicines"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30sp" 
+        android:text="MEDICINE/FOOD" 
+        android:paddingTop="50dp"/>
+        
+        <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etmedicine"
+        android:gravity="center"
+        android:layout_marginLeft="25dp"
+        android:textSize="30sp" 
+        android:paddingTop="10dp"
+          />
+
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30sp" 
+        android:text="PROBLEM/ALLERGY"
+        android:paddingTop="50dp" />
+        
+        <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etproblem"
+        android:gravity="center"
+        android:textSize="30sp" 
+        android:layout_marginLeft="20dp"
+        android:paddingTop="10dp"   />
+        
+
+        <Button
+        android:id="@+id/b_submit_allergy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:text="INSERT" />
+        
+          
+                </LinearLayout>
+
+                 <LinearLayout
+                    android:id="@+id/tab2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="20dp">
+        <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="20dp"
+        android:layout_marginLeft="22dp"
+        android:text="REMOVE MEDICINES/FOOD"
+        android:textSize="30sp" 
+        android:textStyle="bold"
+        />
+    
+   
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="30sp" 
+        android:text="MEDICINE/FOOD" 
+        android:paddingTop="50dp"/>
+        
+        <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/etdeletemedicine"
+        android:gravity="center"
+        android:layout_marginLeft="25dp"
+        android:paddingTop="10dp"
+        android:textSize="30sp"   />
+        
+        <Button
+        android:id="@+id/b_delete_allergy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:text="DELETE" />
+                     
+                </LinearLayout>
+
+                
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>
+</ScrollView>

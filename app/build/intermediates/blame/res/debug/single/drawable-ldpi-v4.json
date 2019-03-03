@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/improved.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/improved.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/first.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/first.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/back.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/back.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/gratus.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/gratus.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/image2.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/image2.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/insertproblem.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/insertproblem.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/startbackground.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/startbackground.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/loginsecond.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/loginsecond.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/dropsblue.jpeg",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/dropsblue.jpeg"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/login.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/login.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/blackblocks.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/blackblocks.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/records.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/records.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abstractflame.jpeg",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/abstractflame.jpeg"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/enter.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/enter.png"
+    },
+    {
+        "merged": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/times.png",
+        "source": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/drawable-ldpi/times.png"
+    }
+]

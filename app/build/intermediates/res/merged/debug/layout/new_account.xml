@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingLeft="40dp"
+    android:paddingRight="40dp"
+    android:paddingTop="40dp" 
+    android:background="@drawable/loginsecond"  >
+    <TextView   
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content" 
+        android:text = "HEALTHGURU"
+        android:textSize = "30sp"
+        android:layout_gravity = "center" 
+        android:paddingBottom="40dp"
+        android:textColor="#b22222"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="25dp" 
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingRight="20dp"
+            android:text="NAME"
+            android:textSize="20sp"
+            android:textColor="#b22222"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.24" 
+            android:textColor="#b22222"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+    
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="25dp" 
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:paddingRight="20dp"
+            android:hint="MOBILE"
+
+            android:textSize="20sp"
+            android:textColor="#b22222"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/et_mobilenum"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.24"
+            android:inputType="phone"
+            android:hint="Phone no." 
+            android:textColor="#b22222"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+    
+    
+    
+    
+    
+    
+    <LinearLayout
+        android:paddingTop="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+        android:paddingBottom="40dp"
+        >
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:password = "true"
+            android:hint="ENTER  PASSWORD"
+            android:id="@+id/et_password"
+            android:textColor="#b22222"
+            android:textStyle="bold"
+           />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:password = "true"
+            android:hint="RETYPE  PASSWORD"
+            android:id="@+id/et_retypepassword"
+            android:textColor="#b22222"
+            android:textStyle="bold"
+           />
+
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="SUBMIT"
+        android:textSize="15sp"
+        android:id="@+id/b_submit"
+        android:textColor="#b22222"
+        android:textStyle="bold" />
+
+</LinearLayout>
+</ScrollView>

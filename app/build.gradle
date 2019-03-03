@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "24.0.1"
+
+    defaultConfig {
+        applicationId "com.tushar.healthguru"
+        minSdkVersion 9
+        targetSdkVersion 18
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    compile group: 'org.achartengine', name: 'achartengine', version: '1.2.0'
+    compile 'com.android.volley:volley:1.0.0'
+    compile 'com.jjoe64:graphview:4.1.0'
+    compile 'com.mobsandgeeks:android-saripaar:+'
+}

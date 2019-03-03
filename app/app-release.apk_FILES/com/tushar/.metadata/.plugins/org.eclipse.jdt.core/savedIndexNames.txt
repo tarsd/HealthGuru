@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Users\Tushar\Desktop\adt-bundle-windows-x86_64-20131030\adt-bundle-windows-x86_64-20131030\eclipse\tarsdelite\tarsd\src\com\example\.metadata\.plugins\org.eclipse.jdt.core

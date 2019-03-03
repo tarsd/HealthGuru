@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tushar.healthguru"
+    android:versionCode="2"
+    android:versionName="1.0" 
+     >
+ 
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="18" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+   
+   
+    <application
+        android:name="com.tushar.healthguru.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <activity
+            android:name="com.tushar.healthguru.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.tarsd.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        
+        
+        <activity
+            android:name="com.tushar.healthguru.StartActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+         <activity android:name="org.achartengine.GraphicalActivity" />
+         
+        <activity
+            android:name="com.tushar.healthguru.index"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.View_Records_As_List_Format"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.Sugar_Variation_Graph"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.Tempsugar"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.Diastolic_Variation_Graph"
+            android:label="@string/app_name" >
+        </activity>
+        
+         <activity
+            android:name="com.tushar.healthguru.Tempdia"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.Systolic_Variation_Graph"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.Temp"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.View_Graphs"
+            android:label="@string/app_name" >
+        </activity>
+        
+         <activity
+            android:name="com.tushar.healthguru.Insert_Problematic_Medicines"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.Mysql_database"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.Health_Graphs"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.View_Problematic_Medicines"
+            android:label="@string/app_name" >
+        </activity>
+           
+        
+         <activity
+            android:name="com.tushar.healthguru.Enter_Records"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.First_Aid"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.tushar.healthguru.View_Database"
+            android:label="@string/app_name" >
+        </activity>
+        
+        <activity
+            android:name="com.tushar.healthguru.Create_new_account"
+            android:label="@string/app_name" >
+            
+        </activity>
+        <activity
+            android:name="com.tushar.healthguru.Mysqllogin"
+            android:label="@string/app_name" >
+            
+        </activity>
+        
+        </application>
+
+</manifest>

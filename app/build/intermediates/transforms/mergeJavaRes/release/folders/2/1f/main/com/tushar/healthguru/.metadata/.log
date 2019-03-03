@@ -1,0 +1,375 @@
+!SESSION 2015-07-01 21:37:23.867 -----------------------------------------------
+eclipse.buildId=v22.3.0-887826
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:03.800
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Document is closed
+	at org.eclipse.ui.internal.console.IOConsolePartitioner.streamAppended(IOConsolePartitioner.java:453)
+	at org.eclipse.ui.console.IOConsoleOutputStream.notifyParitioner(IOConsoleOutputStream.java:245)
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:240)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:798)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:03.803
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:800)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:03.804
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at org.eclipse.ui.console.MessageConsoleStream.println(MessageConsoleStream.java:81)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:802)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:03.862
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:798)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:03.863
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:800)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:03.864
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at org.eclipse.ui.console.MessageConsoleStream.println(MessageConsoleStream.java:81)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:802)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:03.943
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:798)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:03.945
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:800)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:03.947
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at org.eclipse.ui.console.MessageConsoleStream.println(MessageConsoleStream.java:81)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:802)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:04.069
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:798)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:04.070
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:800)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:04.071
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at org.eclipse.ui.console.MessageConsoleStream.println(MessageConsoleStream.java:81)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:802)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:04.145
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:798)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:04.147
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:800)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:04.149
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at org.eclipse.ui.console.MessageConsoleStream.println(MessageConsoleStream.java:81)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:802)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:04.483
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:798)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:04.483
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:800)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)
+
+!ENTRY org.eclipse.ui.console 4 120 2015-07-01 21:39:04.484
+!MESSAGE Error logged from Console plug-in: 
+!STACK 0
+java.io.IOException: Output Stream is closed
+	at org.eclipse.ui.console.IOConsoleOutputStream.encodedWrite(IOConsoleOutputStream.java:230)
+	at org.eclipse.ui.console.IOConsoleOutputStream.write(IOConsoleOutputStream.java:225)
+	at org.eclipse.ui.console.MessageConsoleStream.print(MessageConsoleStream.java:56)
+	at org.eclipse.ui.console.MessageConsoleStream.println(MessageConsoleStream.java:81)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.printToStream(DdmsPlugin.java:802)
+	at com.android.ide.eclipse.ddms.DdmsPlugin.access$1(DdmsPlugin.java:794)
+	at com.android.ide.eclipse.ddms.DdmsPlugin$2.printLog(DdmsPlugin.java:178)
+	at com.android.ddmlib.Log.println(Log.java:329)
+	at com.android.ddmlib.Log.e(Log.java:231)
+	at com.android.ddmlib.Client.requestAllocationStatus(Client.java:490)
+	at com.android.ddmlib.DeviceMonitor.createClient(DeviceMonitor.java:835)
+	at com.android.ddmlib.DeviceMonitor.openClient(DeviceMonitor.java:803)
+	at com.android.ddmlib.DeviceMonitor.processIncomingJdwpData(DeviceMonitor.java:763)
+	at com.android.ddmlib.DeviceMonitor.deviceClientMonitorLoop(DeviceMonitor.java:652)
+	at com.android.ddmlib.DeviceMonitor.access$100(DeviceMonitor.java:44)
+	at com.android.ddmlib.DeviceMonitor$3.run(DeviceMonitor.java:580)

@@ -1,0 +1,362 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/tarsd.iml
+* .idea/workspace.xml
+* .metadata/
+* .metadata/.lock
+* .metadata/.log
+* .metadata/.plugins/
+* .metadata/.plugins/com.android.ide.eclipse.adt/
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/AnalogClock.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/AutoCompleteTextView.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Button.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/CalendarView.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/CheckBox.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/CheckedTextView.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Date.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/DigitalClock.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Email.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ExpandableListView.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/LargeText.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ListView.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/MediumText.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/MultiAutoCompleteTextView.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/MultilineText.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Number.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/NumberDecimal.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/NumberSigned.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Password.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PasswordNumeric.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PersonName.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Phone.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PlainText.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PostalAddress.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarHorizontal.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarLarge.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarNormal.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarSmall.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/QuickContactBadge.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/RadioButton.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/RadioGroup.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/RatingBar.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/SeekBar.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/SmallButton.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/SmallText.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Spinner.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Switch.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/TabHost.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/TabWidget.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/TextView.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Time.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ToggleButton.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ZoomButton.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ZoomControls.png
+* .metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/preview.properties
+* .metadata/.plugins/org.eclipse.cdt.core/
+* .metadata/.plugins/org.eclipse.cdt.core/.log
+* .metadata/.plugins/org.eclipse.cdt.make.core/
+* .metadata/.plugins/org.eclipse.cdt.make.core/specs.c
+* .metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp
+* .metadata/.plugins/org.eclipse.core.resources/
+* .metadata/.plugins/org.eclipse.core.resources/.root/
+* .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/
+* .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
+* .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+* .metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version
+* .metadata/.plugins/org.eclipse.core.resources/.root/10.tree
+* .metadata/.plugins/org.eclipse.core.resources/.safetable/
+* .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+* .metadata/.plugins/org.eclipse.core.runtime/
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.adt.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.core.prefs
+* .metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs
+* .metadata/.plugins/org.eclipse.e4.workbench/
+* .metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+* .metadata/.plugins/org.eclipse.jdt.core/
+* .metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+* .metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache
+* .metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt
+* .metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+* .metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+* .metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+* .metadata/.plugins/org.eclipse.jdt.launching/
+* .metadata/.plugins/org.eclipse.jdt.launching/.install.xml
+* .metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml
+* .metadata/.plugins/org.eclipse.jdt.ui/
+* .metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml
+* .metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml
+* .metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml
+* .metadata/.plugins/org.eclipse.ltk.core.refactoring/
+* .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/
+* .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/
+* .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/
+* .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/7/
+* .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/7/27/
+* .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/7/27/refactorings.history
+* .metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/7/27/refactorings.index
+* .metadata/.plugins/org.eclipse.ltk.ui.refactoring/
+* .metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml
+* .metadata/.plugins/org.eclipse.ui.ide/
+* .metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml
+* .metadata/.plugins/org.eclipse.ui.workbench/
+* .metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
+* .metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+* .metadata/.plugins/org.eclipse.wst.internet.cache/
+* .metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml
+* .metadata/.plugins/org.eclipse.wst.sse.ui/
+* .metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml
+* .metadata/.plugins/org.eclipse.wst.xml.core/
+* .metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml
+* .metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
+* .metadata/version.ini
+* ghjgj/
+* ghjgj/.classpath
+* ghjgj/.project
+* ghjgj/.settings/
+* ghjgj/.settings/org.eclipse.jdt.core.prefs
+* ghjgj/AndroidManifest.xml
+* ghjgj/bin/
+* ghjgj/bin/AndroidManifest.xml
+* ghjgj/bin/classes/
+* ghjgj/bin/classes/com/
+* ghjgj/bin/classes/com/example/
+* ghjgj/bin/classes/com/example/ghjgj/
+* ghjgj/bin/classes/com/example/ghjgj/BuildConfig.class
+* ghjgj/bin/classes/com/example/ghjgj/MainActivity.class
+* ghjgj/bin/classes/com/example/ghjgj/R$attr.class
+* ghjgj/bin/classes/com/example/ghjgj/R$dimen.class
+* ghjgj/bin/classes/com/example/ghjgj/R$drawable.class
+* ghjgj/bin/classes/com/example/ghjgj/R$id.class
+* ghjgj/bin/classes/com/example/ghjgj/R$layout.class
+* ghjgj/bin/classes/com/example/ghjgj/R$menu.class
+* ghjgj/bin/classes/com/example/ghjgj/R$string.class
+* ghjgj/bin/classes/com/example/ghjgj/R$style.class
+* ghjgj/bin/classes/com/example/ghjgj/R.class
+* ghjgj/bin/jarlist.cache
+* ghjgj/gen/
+* ghjgj/gen/com/
+* ghjgj/gen/com/example/
+* ghjgj/gen/com/example/ghjgj/
+* ghjgj/gen/com/example/ghjgj/BuildConfig.java
+* ghjgj/gen/com/example/ghjgj/R.java
+* ghjgj/ic_launcher-web.png
+* ghjgj/libs/
+* ghjgj/libs/android-support-v4.jar
+* ghjgj/proguard-project.txt
+* ghjgj/project.properties
+* ghjgj/res/
+* ghjgj/res/drawable-hdpi/
+* ghjgj/res/drawable-hdpi/ic_launcher.png
+* ghjgj/res/drawable-mdpi/
+* ghjgj/res/drawable-mdpi/ic_launcher.png
+* ghjgj/res/drawable-xhdpi/
+* ghjgj/res/drawable-xhdpi/ic_launcher.png
+* ghjgj/res/drawable-xxhdpi/
+* ghjgj/res/drawable-xxhdpi/ic_launcher.png
+* ghjgj/res/layout/
+* ghjgj/res/layout/activity_main.xml
+* ghjgj/res/menu/
+* ghjgj/res/menu/main.xml
+* ghjgj/res/values-sw600dp/
+* ghjgj/res/values-sw600dp/dimens.xml
+* ghjgj/res/values-sw720dp-land/
+* ghjgj/res/values-sw720dp-land/dimens.xml
+* ghjgj/res/values-v11/
+* ghjgj/res/values-v11/styles.xml
+* ghjgj/res/values-v14/
+* ghjgj/res/values-v14/styles.xml
+* ghjgj/res/values/
+* ghjgj/res/values/dimens.xml
+* ghjgj/res/values/strings.xml
+* ghjgj/res/values/styles.xml
+* ghjgj/src/
+* ghjgj/src/com/
+* ghjgj/src/com/example/
+* ghjgj/src/com/example/ghjgj/
+* ghjgj/src/com/example/ghjgj/MainActivity.java
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.3
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/com/example/.metadata/.lock => app/src/main/resources/com/example/.metadata/.lock
+* src/com/example/.metadata/.log => app/src/main/resources/com/example/.metadata/.log
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/AnalogClock.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/AnalogClock.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/AutoCompleteTextView.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/AutoCompleteTextView.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Button.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Button.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/CalendarView.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/CalendarView.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/CheckBox.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/CheckBox.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/CheckedTextView.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/CheckedTextView.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Date.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Date.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/DigitalClock.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/DigitalClock.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Email.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Email.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ExpandableListView.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ExpandableListView.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/LargeText.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/LargeText.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ListView.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ListView.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/MediumText.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/MediumText.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/MultiAutoCompleteTextView.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/MultiAutoCompleteTextView.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/MultilineText.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/MultilineText.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Number.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Number.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/NumberDecimal.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/NumberDecimal.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/NumberSigned.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/NumberSigned.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Password.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Password.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PasswordNumeric.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PasswordNumeric.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PersonName.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PersonName.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Phone.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Phone.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PlainText.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PlainText.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PostalAddress.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/PostalAddress.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarHorizontal.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarHorizontal.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarLarge.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarLarge.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarNormal.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarNormal.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarSmall.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ProgressBarSmall.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/QuickContactBadge.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/QuickContactBadge.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/RadioButton.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/RadioButton.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/RadioGroup.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/RadioGroup.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/RatingBar.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/RatingBar.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/SeekBar.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/SeekBar.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/SmallButton.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/SmallButton.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/SmallText.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/SmallText.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Spinner.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Spinner.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Switch.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Switch.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/TabHost.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/TabHost.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/TabWidget.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/TabWidget.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/TextView.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/TextView.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Time.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/Time.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ToggleButton.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ToggleButton.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ZoomButton.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ZoomButton.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ZoomControls.png => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/ZoomControls.png
+* src/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/preview.properties => app/src/main/resources/com/example/.metadata/.plugins/com.android.ide.eclipse.adt/palette-preview-r16b-19-apptheme-37inwvganexusone/preview.properties
+* src/com/example/.metadata/.plugins/org.eclipse.cdt.core/.log => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.cdt.core/.log
+* src/com/example/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c
+* src/com/example/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp
+* src/com/example/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
+* src/com/example/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+* src/com/example/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version
+* src/com/example/.metadata/.plugins/org.eclipse.core.resources/.root/6.tree => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.resources/.root/6.tree
+* src/com/example/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.adt.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.adt.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.core.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.core.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs
+* src/com/example/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+* src/com/example/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps
+* src/com/example/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache
+* src/com/example/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt
+* src/com/example/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+* src/com/example/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+* src/com/example/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+* src/com/example/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml
+* src/com/example/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml
+* src/com/example/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml
+* src/com/example/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/7/27/refactorings.history => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/7/27/refactorings.history
+* src/com/example/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/7/27/refactorings.index => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2015/7/27/refactorings.index
+* src/com/example/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml
+* src/com/example/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
+* src/com/example/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+* src/com/example/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.wst.internet.cache/cache.xml
+* src/com/example/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.wst.sse.ui/dialog_settings.xml
+* src/com/example/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml
+* src/com/example/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml => app/src/main/resources/com/example/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
+* src/com/example/.metadata/version.ini => app/src/main/resources/com/example/.metadata/version.ini
+* src/com/example/tarsd/.metadata/.lock => app/src/main/resources/com/example/tarsd/.metadata/.lock
+* src/com/example/tarsd/.metadata/.log => app/src/main/resources/com/example/tarsd/.metadata/.log
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.cdt.core/.log => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.cdt.core/.log
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.cdt.make.core/specs.c
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.cdt.make.core/specs.cpp
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.root/21.tree => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.root/21.tree
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.adt.prefs => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.android.ide.eclipse.adt.prefs
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.cdt.ui.prefs
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.core/invalidArchivesCache
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.search/dialog_settings.xml => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.search/dialog_settings.xml
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
+* src/com/example/tarsd/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml => app/src/main/resources/com/example/tarsd/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
+* src/com/example/tarsd/.metadata/version.ini => app/src/main/resources/com/example/tarsd/.metadata/version.ini
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

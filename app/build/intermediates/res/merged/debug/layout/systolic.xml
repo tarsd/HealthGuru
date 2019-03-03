@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:padding="30dp"
+    android:background="@drawable/times">
+    
+    <TextView
+        android:id="@+id/tvsystitle1"
+        android:textStyle="bold"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="35sp"
+        android:text="ENTER THE NUMBER" />
+    
+    <TextView
+        android:id="@+id/tvsystitle2"
+        android:textStyle="bold"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="35sp"
+        android:text="OF ENTRIES TO VIEW GRAPHS" />
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:hint="INTEGER"
+        android:id="@+id/etnosystolic"
+        android:layout_marginBottom="20dp" 
+        android:textSize="35sp"/>
+    
+    
+   <Button
+            android:id="@+id/bnosystolic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:text="SUBMIT" />
+    
+    
+
+</LinearLayout>

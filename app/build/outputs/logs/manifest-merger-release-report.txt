@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:2:1-137:12
+	package
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:22.1.1] /home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] /home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/AndroidManifest.xml:7:5-43
+MERGED from [com.jjoe64:graphview:4.1.0] /home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:14:5-135:23
+MERGED from [com.android.support:support-v4:22.1.1] /home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.jjoe64:graphview:4.1.0] /home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.1.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.1.1] /home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:15:9-59
+activity#com.tushar.healthguru.MainActivity
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:22:13-62
+intent-filter#android.intent.category.DEFAULT+com.example.tarsd.MAINACTIVITY
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:24:13-28:29
+action#com.example.tarsd.MAINACTIVITY
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:25:17-73
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:25:25-70
+category#android.intent.category.DEFAULT
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:27:27-73
+activity#com.tushar.healthguru.StartActivity
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:33:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:38:27-74
+activity#org.achartengine.GraphicalActivity
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:42:10-72
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:42:20-69
+activity#com.tushar.healthguru.index
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:45:13-55
+activity#com.tushar.healthguru.View_Records_As_List_Format
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:49:9-52:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:51:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:50:13-77
+activity#com.tushar.healthguru.Sugar_Variation_Graph
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:55:13-71
+activity#com.tushar.healthguru.Tempsugar
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:59:9-62:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:61:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:60:13-59
+activity#com.tushar.healthguru.Diastolic_Variation_Graph
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:65:13-75
+activity#com.tushar.healthguru.Tempdia
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:69:10-72:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:71:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:70:13-57
+activity#com.tushar.healthguru.Systolic_Variation_Graph
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:74:9-77:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:76:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:75:13-74
+activity#com.tushar.healthguru.Temp
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:79:9-82:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:81:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:80:13-54
+activity#com.tushar.healthguru.View_Graphs
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:86:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:85:13-61
+activity#com.tushar.healthguru.Insert_Problematic_Medicines
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:89:10-92:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:91:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:90:13-78
+activity#com.tushar.healthguru.Mysql_database
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:94:9-97:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:96:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:95:13-64
+activity#com.tushar.healthguru.Health_Graphs
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:99:9-102:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:101:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:100:13-63
+activity#com.tushar.healthguru.View_Problematic_Medicines
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:104:9-107:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:106:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:105:13-76
+activity#com.tushar.healthguru.Enter_Records
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:110:10-113:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:112:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:111:13-63
+activity#com.tushar.healthguru.First_Aid
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:115:9-118:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:117:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:116:13-59
+activity#com.tushar.healthguru.View_Database
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:119:9-122:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:121:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:120:13-63
+activity#com.tushar.healthguru.Create_new_account
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:124:9-128:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:126:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:125:13-68
+activity#com.tushar.healthguru.Mysqllogin
+ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:129:9-133:20
+	android:label
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:131:13-45
+	android:name
+		ADDED from /home/ravdeep/Documents/Apps/tarsd/app/src/main/AndroidManifest.xml:130:13-60

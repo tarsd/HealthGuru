@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "/home/ravdeep/Documents/Apps/tarsd/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 57,
+                    "endOffset": 365
+                },
+                "from": {
+                    "file": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 370,
+                    "endColumn": 55,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 52,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endColumn": 52,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 47,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 52,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 52,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 43,
+                    "endOffset": 619
+                },
+                "from": {
+                    "file": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 43,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 624,
+                    "endColumn": 43,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endColumn": 43,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 954
+                },
+                "from": {
+                    "file": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 959,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1114
+                },
+                "from": {
+                    "file": "/home/ravdeep/Documents/Apps/tarsd/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
